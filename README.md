@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RihabSabri
-- 👀 I’m interested in web dev, design, NLP and coffee 
+- 👀 I’m interested in web dev, design, NLP and Crypto
 
 <!---
 RihabSabri/RihabSabri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
