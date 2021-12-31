@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RihabSabri
+- 👋 Hi, I’m Rihab Sabri and I m a software engineer.
 - 👀 I’m interested in web dev, design, NLP and Crypto
 
 <!---
