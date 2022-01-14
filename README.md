@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # 👩‍💻 Skills and Tools.
 These are some of the technologies I've been lately using.
 
-- ⚛️ React 
+- ⚛️ React & 📱 React Native
 - 💚  Node and express 
 - Mongo DB & mongoose
 - 🐍 Python and Django
