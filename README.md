@@ -14,7 +14,7 @@ These are some of the technologies I've been lately using.
 
 - ⚛️ React & 📱 React Native
 - 💚  Node and express 
-- Mongo DB & mongoose
+- 🤎 Mongo DB & mongoose
 - 🐍 Python and Django
 
 
