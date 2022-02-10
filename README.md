@@ -16,7 +16,7 @@ These are some of the technologies I've been lately using.
 - 💚  Node & express 
 - 🤎 Mongo DB & mongoose
 - 🐍 Python & Django
-
+- 🧚‍♀️ can be occasionally funny 
 
 
 
